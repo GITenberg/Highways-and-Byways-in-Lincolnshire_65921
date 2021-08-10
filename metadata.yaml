@@ -1,0 +1,45 @@
+_repo: Highways-and-Byways-in-Lincolnshire_65921
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Farquharson, Alexander Forrester
+    birthdate: 1836
+    deathdate: 1906
+    gutenberg_agent_id: '53550'
+    url: http://www.gutenberg.org/2009/agents/53550
+  illustrator:
+    agent_name: Griggs, Frederick Landseer Maur
+    aliases:
+    - Griggs, F. L. (Frederick Landseer)
+    - Griggs, Frederick L.
+    - Griggs, F. L. B.
+    birthdate: 1876
+    deathdate: 1938
+    gutenberg_agent_id: '9461'
+    url: http://www.gutenberg.org/2009/agents/9461
+    wikipedia: https://en.wikipedia.org/wiki/F._L._Griggs
+creator:
+  author:
+    agent_name: Rawnsley, W. F. (Willingham Franklin)
+    alias: Rawnsley, Willingham Franklin
+    birthdate: 1845
+    deathdate: 1927
+    gutenberg_agent_id: '41901'
+    url: http://www.gutenberg.org/2009/agents/41901
+    wikipedia: https://en.wikipedia.org/wiki/Willingham_Franklin_Rawnsley
+description: '"A Lowland peasant poet [Alexander Forrester Farquharson]": p. 501-510.'
+gutenberg_issued: '2021-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65921'
+  lccn: '14020745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Lincolnshire (England) -- Description and travel'
+- GITenberg
+title: Highways and Byways in Lincolnshire
+url: http://www.gutenberg.org/ebooks/65921
